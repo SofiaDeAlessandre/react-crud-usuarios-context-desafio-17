@@ -1,7 +1,6 @@
 import Formulario from "./components/Formulario";
 import ListadoUsuarios from "./components/ListadoUsuarios";
 import { useTheme } from "./contexts/ThemeContext";
-import './app.css';
 import { useEffect } from "react";
 const App = () => {
   const { isDarkMode } = useTheme(); 
