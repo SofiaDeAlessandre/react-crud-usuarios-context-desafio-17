@@ -1,0 +1,84 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "edad": 28,
+      "puesto": "Desarrollador Frontend",
+      "foto": "/src/assets/avatar-1.webp"
+    },
+    {
+      "id": "2",
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "edad": 35,
+      "puesto": "Ingeniera de Software",
+      "foto": "/src/assets/avatar-woman-1.webp"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos",
+      "apellido": "Sánchez",
+      "edad": 42,
+      "puesto": "Administrador de Sistemas",
+      "foto": "/src/assets/avatar-2.webp"
+    },
+    {
+      "id": "4",
+      "nombre": "Lucía",
+      "apellido": "Martínez",
+      "edad": 29,
+      "puesto": "Desarrolladora Backend",
+      "foto": "/src/assets/avatar-woman-6.webp"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "apellido": "López",
+      "edad": 39,
+      "puesto": "DevOps Engineer",
+      "foto": "/src/assets/avatar-3.webp"
+    },
+    {
+      "id": "6",
+      "nombre": "Sofía",
+      "apellido": "Rodríguez",
+      "edad": 30,
+      "puesto": "Analista de Datos",
+      "foto": "/src/assets/avatar-woman-3.webp"
+    },
+    {
+      "id": "7",
+      "nombre": "Luis",
+      "apellido": "Fernández",
+      "edad": 26,
+      "puesto": "Diseñador UI/UX",
+      "foto": "/src/assets/avatar-4.webp"
+    },
+    {
+      "id": "8",
+      "nombre": "Marta",
+      "apellido": "García",
+      "edad": 33,
+      "puesto": "Consultora de Tecnología",
+      "foto": "/src/assets/avatar-woman-4.webp"
+    },
+    {
+      "id": "9",
+      "nombre": "Javier",
+      "apellido": "Vázquez",
+      "edad": 40,
+      "puesto": "Arquitecto de Soluciones",
+      "foto": "/src/assets/avatar-5.webp"
+    },
+    {
+      "id": "10",
+      "nombre": "Raquel",
+      "apellido": "Hernández",
+      "edad": 31,
+      "puesto": "Desarrolladora Full Stack",
+      "foto": "/src/assets/avatar-woman-5.webp"
+    }
+  ]
+}
